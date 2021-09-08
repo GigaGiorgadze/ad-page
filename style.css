@@ -1,0 +1,13 @@
+.navbar-brand img{
+    width: 20%;
+}
+.genre{
+    width: 250px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.genre span{
+    font-weight: 100;
+    margin-left: 20px;
+}
